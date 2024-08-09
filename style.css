@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "mixta-sharp";
+    src: url("https://use.typekit.net/af/957eda/00000000000000007735f40e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3")
+        format("woff2"),
+      url("https://use.typekit.net/af/957eda/00000000000000007735f40e/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3")
+        format("woff"),
+      url("https://use.typekit.net/af/957eda/00000000000000007735f40e/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3")
+        format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+  }
+
+  .bg-page {
+    background-color: rgb(245, 245, 245);
+  }
+
+  .color-black {
+    color: #020202;
+  }
+
+  .font-mixta-sharp {
+    font-family: "mixta-sharp", serif;
+  }
+
+  .font-34 {
+    font-size: 34px;
+  }
+
+  .p-0 {
+    padding: 0;
+  }
+  
